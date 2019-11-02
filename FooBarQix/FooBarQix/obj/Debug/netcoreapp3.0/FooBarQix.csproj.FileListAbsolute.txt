@@ -1,0 +1,11 @@
+C:\Users\vijay\Documents\Vijay\3.Workspace\1.Github\kata-FooBarQix\FooBarQix\FooBarQix\bin\Debug\netcoreapp3.0\FooBarQix.exe
+C:\Users\vijay\Documents\Vijay\3.Workspace\1.Github\kata-FooBarQix\FooBarQix\FooBarQix\bin\Debug\netcoreapp3.0\FooBarQix.deps.json
+C:\Users\vijay\Documents\Vijay\3.Workspace\1.Github\kata-FooBarQix\FooBarQix\FooBarQix\bin\Debug\netcoreapp3.0\FooBarQix.runtimeconfig.json
+C:\Users\vijay\Documents\Vijay\3.Workspace\1.Github\kata-FooBarQix\FooBarQix\FooBarQix\bin\Debug\netcoreapp3.0\FooBarQix.runtimeconfig.dev.json
+C:\Users\vijay\Documents\Vijay\3.Workspace\1.Github\kata-FooBarQix\FooBarQix\FooBarQix\bin\Debug\netcoreapp3.0\FooBarQix.dll
+C:\Users\vijay\Documents\Vijay\3.Workspace\1.Github\kata-FooBarQix\FooBarQix\FooBarQix\bin\Debug\netcoreapp3.0\FooBarQix.pdb
+C:\Users\vijay\Documents\Vijay\3.Workspace\1.Github\kata-FooBarQix\FooBarQix\FooBarQix\obj\Debug\netcoreapp3.0\FooBarQix.csprojAssemblyReference.cache
+C:\Users\vijay\Documents\Vijay\3.Workspace\1.Github\kata-FooBarQix\FooBarQix\FooBarQix\obj\Debug\netcoreapp3.0\FooBarQix.AssemblyInfoInputs.cache
+C:\Users\vijay\Documents\Vijay\3.Workspace\1.Github\kata-FooBarQix\FooBarQix\FooBarQix\obj\Debug\netcoreapp3.0\FooBarQix.AssemblyInfo.cs
+C:\Users\vijay\Documents\Vijay\3.Workspace\1.Github\kata-FooBarQix\FooBarQix\FooBarQix\obj\Debug\netcoreapp3.0\FooBarQix.dll
+C:\Users\vijay\Documents\Vijay\3.Workspace\1.Github\kata-FooBarQix\FooBarQix\FooBarQix\obj\Debug\netcoreapp3.0\FooBarQix.pdb
